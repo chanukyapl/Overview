@@ -9,36 +9,16 @@ permalink: /
 # Why is this Repo
 {: .fs-9 }
 
-Describe what is the need to create this repository
+To show all the links to my docs
 {: .fs-6 .fw-300 }
 
 ---
-
-## Getting started
-
-### Dependencies
-
-
-### Quick start:
-
-Know what you want to know before starting!
-
-### Local installation: 
-
-Try to use Docker for building the things 
-
-### Configure 
-
-
-## About the project
-
-## Installation
 
 <h1 align="center">My Github Overview</h1>
 
 ## JavaScript
 
- + [Node js](https://github.com/chanukyapl/NodeLearning)
+ + [Node js](https://github.com/chanukyapl/NodeLearning) - [Read](https://chanukyapl.github.io/NodeLearning)
     - branches
         + [Node_js](https://github.com/chanukyapl/NodeLearning/tree/Node_js)
         + [Node_with_Express](https://github.com/chanukyapl/NodeLearning/tree/Node_with_Express)
@@ -46,7 +26,7 @@ Try to use Docker for building the things
         + [ECMA Script](https://github.com/chanukyapl/NodeLearning/tree/ECMAScript)
 
 ## Chrome Extension
-
+ + [Read](https://chanukyapl.github.io/Chrome_extension)
  + [Chrome Extension for basic needs](https://github.com/chanukyapl/Chrome_extension/tree/first)
  + [Chrome Theme](https://github.com/chanukyapl/chrome_theme/tree/master)
 
@@ -60,11 +40,13 @@ Try to use Docker for building the things
 
 ## Databases
 
+ + [Read](https://chanukyapl.github.io/Databases)
  + [Databases](https://github.com/chanukyapl/Databases)
     - [MongoDB](https://github.com/chanukyapl/Databases/tree/MongoDB)
 
 ## Automation
 
+ + [Read](https://chanukyapl.github.io/Automation)
  + [Automations](https://github.com/chanukyapl/Automation)
    - [Batch Scripting](https://github.com/chanukyapl/Automation/tree/Batch)
 
